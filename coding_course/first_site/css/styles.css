@@ -1,0 +1,15 @@
+body {
+  background: url('../images/d6fa63ac.jpg');
+background-size: cover;
+width: 100vw;
+height: 100vh;
+box-sizing: border-box;
+border: #ffffff 20px solid;
+padding: 0;
+margin: 0;}
+
+body {color: rgb(150,120,180);
+font-family: arial;
+margin: 9px;
+}
+h1, h2 {text-align: center;}
